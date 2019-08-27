@@ -1,0 +1,3 @@
+¿En que consiste la multiplexación?
+
+Consiste en que el servidor puede enviar y recibir varias peticiones al mismo tiempo.
