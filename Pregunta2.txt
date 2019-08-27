@@ -1,0 +1,7 @@
+Objetivos  que el creador de Git se propuso:
+
+-Conservar las caracteristicas.
+-Ser facil de usar.
+-No necesitar conectarse con el servidor para obtener la historia mostrada.
+-Tener integridad, que no se pueda cambiar el contenido de los archivos sin que Git lo tenga en cuenta.
+-Copias instantaneas, no diferentes: Tecnicamente toma unafoto de los archivos, y guarda la referencia a la copia instantanea.
